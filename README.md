@@ -3,4 +3,4 @@
 
 <hr>
 
-<p>Para rodar o projeto é necessário instalr o composer</p>
+<p>Para rodar o projeto é necessário instalar o composer</p>
