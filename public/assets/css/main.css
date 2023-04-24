@@ -1,0 +1,24 @@
+@import url("nav.css");
+
+body {
+    margin: 0.1%;
+    padding: 1%;
+    border: 3px solid #969696;
+    background-color: #f8f9fa;
+}
+
+.nav-link {
+    color: black;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.editar {
+    color: rgb(177, 187, 35);
+}
+
+.deletar {
+    color: #5c0a0a;
+}
